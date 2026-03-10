@@ -21,6 +21,3 @@ This project analyzes pizza sales data using Power BI to uncover key insights in
 - Focus promotions on top-selling pizzas
 - Optimize staffing during peak hours
 - Review pricing strategy for veggie pizzas
-
-## Dashboard Preview
-![Pizza Sales Dashboard](images/dashboard_preview.png)
